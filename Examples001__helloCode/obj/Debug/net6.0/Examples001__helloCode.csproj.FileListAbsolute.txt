@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\bin\Debug\net6.0\Examples001__helloCode.exe
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\bin\Debug\net6.0\Examples001__helloCode.deps.json
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\bin\Debug\net6.0\Examples001__helloCode.runtimeconfig.json
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\bin\Debug\net6.0\Examples001__helloCode.dll
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\bin\Debug\net6.0\Examples001__helloCode.pdb
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\obj\Debug\net6.0\Examples001__helloCode.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\obj\Debug\net6.0\Examples001__helloCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\obj\Debug\net6.0\Examples001__helloCode.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\obj\Debug\net6.0\Examples001__helloCode.AssemblyInfo.cs
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\obj\Debug\net6.0\Examples001__helloCode.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\obj\Debug\net6.0\Examples001__helloCode.dll
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\obj\Debug\net6.0\refint\Examples001__helloCode.dll
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\obj\Debug\net6.0\Examples001__helloCode.pdb
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\obj\Debug\net6.0\Examples001__helloCode.genruntimeconfig.cache
+C:\Users\gokha\Desktop\Examples\Examples001__helloCode\obj\Debug\net6.0\ref\Examples001__helloCode.dll
